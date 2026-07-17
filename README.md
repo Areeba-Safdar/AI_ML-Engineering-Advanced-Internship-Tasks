@@ -89,15 +89,6 @@ Develop a reusable and production-ready machine learning pipeline to predict cus
 
 ---
 
-# 🚀 Future Improvements
-
-- Train BERT on the complete AG News dataset.
-- Deploy projects using Streamlit or Hugging Face Spaces.
-- Compare additional machine learning and transformer models.
-- Improve pipeline performance through feature engineering.
-
----
-
 # 👨‍💻 Author
 
 *Areeba Safdar*
